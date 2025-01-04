@@ -1,3 +1,5 @@
+![Screenshot 2025-01-04 144112](https://github.com/user-attachments/assets/f591e409-39fe-4162-bfc8-7979e4462598)
+![Screenshot 2025-01-04 144141](https://github.com/user-attachments/assets/857ecaab-7375-45ec-a7ed-e1548237e4dd)
 # Web Push Notification Demo
 
 This project demonstrates the implementation of web push notifications using JavaScript. It allows users to input a message and receive a browser notification displaying that message.
